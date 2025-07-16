@@ -13,7 +13,7 @@ This is a boilerplate for building full-stack applications using the T3 Stack. I
 To get started, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/nxn-starter.git
+git clone https://github.com/rhyumiranda/nxn-starter.git
 cd nxn-starter
 pnpm install
 ```
